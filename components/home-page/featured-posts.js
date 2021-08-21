@@ -1,5 +1,5 @@
-import PostsGrid from "../posts/posts-grid";
-import classes from "./featured-posts.module.css";
+import PostsGrid from '../posts/posts-grid';
+import classes from './featured-posts.module.css';
 
 function FeaturedPosts(props) {
   return (
